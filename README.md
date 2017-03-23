@@ -2,7 +2,8 @@
 
 간단한 헤더를 이용한 테이블 뷰 + 헤더 데이터 만드는 함수
 
-#### 스샷자리
+![](https://raw.githubusercontent.com/Loannes/iOS-TableView-Section/master/testHeader/screenshot.png)
+
 
 ## 입력 데이터
 
